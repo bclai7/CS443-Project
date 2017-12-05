@@ -2,7 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c5f7144-6f28-4cbc-8a11-a70d4fe7b93e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_7.png" afterPath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_7.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Do_Not_Enter_Sign_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Do_Not_Enter_Sign_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Do_Not_Enter_Sign_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Do_Not_Enter_Sign_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Do_Not_Enter_Sign_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Do_Not_Enter_Sign_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Do_Not_Enter_Sign_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Do_Not_Enter_Sign_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/No_Left_Turn_Sign_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/No_Left_Turn_Sign_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/No_Left_Turn_Sign_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/No_Left_Turn_Sign_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/No_Left_Turn_Sign_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/No_Left_Turn_Sign_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/No_Left_Turn_Sign_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/No_Left_Turn_Sign_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/No_Left_Turn_Sign_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/No_Left_Turn_Sign_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/One_Way_Sign_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/One_Way_Sign_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/One_Way_Sign_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/One_Way_Sign_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/One_Way_Sign_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/One_Way_Sign_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/One_Way_Sign_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/One_Way_Sign_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/One_Way_Sign_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Speed_Limit_25MPH_Sign_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Speed_Limit_25MPH_Sign_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Speed_Limit_25MPH_Sign_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Speed_Limit_25MPH_Sign_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Speed_Limit_25MPH_Sign_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Speed_Limit_25MPH_Sign_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Speed_Limit_25MPH_Sign_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Speed_Limit_25MPH_Sign_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Speed_Limit_25MPH_Sign_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Stop_Sign_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Stop_Sign_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Stop_Sign_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Stop_Sign_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Stop_Sign_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Stop_Sign_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Stop_Sign_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Stop_Sign_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Stop_Sign_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Yield_Sign_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Yield_Sign_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Yield_Sign_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Yield_Sign_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Yield_Sign_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Yield_Sign_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Yield_Sign_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Yield_Sign_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Yield_Sign_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Yield_Sign_9.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +126,7 @@
       <file leaf-file-name="opencv_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/opencv_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
+            <state relative-caret-position="0">
               <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="37" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -25,13 +135,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tensorflow_test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tensorflow_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tensorflow_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="88" column="20" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="20" />
+            <state relative-caret-position="256">
+              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="55" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keras_CNN.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/keras_CNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="60" column="26" lean-forward="false" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,6 +171,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>train_data</find>
+      <find>conv</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -60,6 +183,9 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/opencv_test.py" />
         <option value="$PROJECT_DIR$/tensorflow_test.py" />
+        <option value="$PROJECT_DIR$/keras-test.py" />
+        <option value="$PROJECT_DIR$/ker-test.py" />
+        <option value="$PROJECT_DIR$/datasetgen.py" />
       </list>
     </option>
   </component>
@@ -119,7 +245,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tensorflow_test">
+  <component name="RunManager" selected="Python.ker-test">
+    <configuration name="datasetgen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS443-Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasetgen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ker-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS443-Project" />
+      <option name="SCRIPT_NAME" value="C:\Users\scoob\Dropbox\Fall 2017 Semester\Topic in Computer Science [CS443]\Assignments\Term Project\CS443-Project\keras_CNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="keras-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS443-Project" />
+      <option name="SCRIPT_NAME" value="C:\Users\scoob\Dropbox\Fall 2017 Semester\Topic in Computer Science [CS443]\Assignments\Term Project\CS443-Project\keras_CNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="opencv_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,33 +331,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CS443-Project" />
-      <option name="SCRIPT_NAME" value="C:\Users\scoob\Dropbox\Fall 2017 Semester\Topic in Computer Science [CS443]\Assignments\Term Project\CS443-Project\opencv_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.opencv_test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tensorflow_test" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.opencv_test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tensorflow_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.datasetgen" />
+      <item index="3" class="java.lang.String" itemvalue="Python.keras-test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ker-test" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.tensorflow_test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.opencv_test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.ker-test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.keras-test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.datasetgen" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tensorflow_test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.opencv_test" />
       </list>
     </recent_temporary>
   </component>
@@ -202,14 +366,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.132116" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.132116" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35180995" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35180995" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -336,7 +499,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/opencv_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
+        <state relative-caret-position="0">
           <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="37" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -344,12 +507,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lenet-mnist/pyimagesearch/cnn/networks/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lenet-mnist/pyimagesearch/cnn/networks/lenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lenet-mnist/lenet_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tensorflow_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="88" column="20" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="20" />
+        <state relative-caret-position="256">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="55" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasetgen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="65" column="2" lean-forward="false" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keras_CNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="60" column="26" lean-forward="false" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
