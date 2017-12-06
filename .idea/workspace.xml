@@ -2,176 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c5f7144-6f28-4cbc-8a11-a70d4fe7b93e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/54.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TEST/Test/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Do_Not_Enter_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Do_Not_Enter_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Do_Not_Enter_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Do_Not_Enter_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Do_Not_Enter_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Do_Not_Enter_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Do_Not_Enter_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Do_Not_Enter_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/No_Left_Turn_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/No_Left_Turn_Sign_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/No_Left_Turn_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/No_Left_Turn_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/No_Left_Turn_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/No_Left_Turn_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/No_Left_Turn_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/No_Left_Turn_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/No_Left_Turn_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/No_Left_Turn_Sign_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/One_Way_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/One_Way_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/One_Way_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/One_Way_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/One_Way_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/One_Way_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/One_Way_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/One_Way_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/One_Way_Sign_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Speed_Limit_25MPH_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Speed_Limit_25MPH_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Speed_Limit_25MPH_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Speed_Limit_25MPH_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Speed_Limit_25MPH_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Speed_Limit_25MPH_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Speed_Limit_25MPH_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Speed_Limit_25MPH_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Speed_Limit_25MPH_Sign_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Stop_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Stop_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Stop_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Stop_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Stop_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Stop_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Stop_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Stop_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Stop_Sign_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Yield_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Yield_Sign_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Yield_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Yield_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Yield_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Yield_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Yield_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Yield_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Yield_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ALL SIGNS-TRAIN/Train/Yield_Sign_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/DO NOT ENTER/Do_Not_Enter_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/DO NOT ENTER/Do_Not_Enter_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/DO NOT ENTER/Do_Not_Enter_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/DO NOT ENTER/Do_Not_Enter_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/DO NOT ENTER/Do_Not_Enter_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/DO NOT ENTER/Do_Not_Enter_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/DO NOT ENTER/Do_Not_Enter_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/DO NOT ENTER/Do_Not_Enter_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/NO LEFT TURN/No_Left_Turn_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/NO LEFT TURN/No_Left_Turn_Sign_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/NO LEFT TURN/No_Left_Turn_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/NO LEFT TURN/No_Left_Turn_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/NO LEFT TURN/No_Left_Turn_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/NO LEFT TURN/No_Left_Turn_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/NO LEFT TURN/No_Left_Turn_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/NO LEFT TURN/No_Left_Turn_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/NO LEFT TURN/No_Left_Turn_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/NO LEFT TURN/No_Left_Turn_Sign_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ONE WAY/One_Way_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ONE WAY/One_Way_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ONE WAY/One_Way_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ONE WAY/One_Way_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ONE WAY/One_Way_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ONE WAY/One_Way_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ONE WAY/One_Way_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ONE WAY/One_Way_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/ONE WAY/One_Way_Sign_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/SPEED LIMIT 25/Speed_Limit_25MPH_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/SPEED LIMIT 25/Speed_Limit_25MPH_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/SPEED LIMIT 25/Speed_Limit_25MPH_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/SPEED LIMIT 25/Speed_Limit_25MPH_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/SPEED LIMIT 25/Speed_Limit_25MPH_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/SPEED LIMIT 25/Speed_Limit_25MPH_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/SPEED LIMIT 25/Speed_Limit_25MPH_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/SPEED LIMIT 25/Speed_Limit_25MPH_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/SPEED LIMIT 25/Speed_Limit_25MPH_Sign_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/STOP/Stop_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/STOP/Stop_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/STOP/Stop_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/STOP/Stop_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/STOP/Stop_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/STOP/Stop_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/STOP/Stop_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/STOP/Stop_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/STOP/Stop_Sign_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Traffic Sign Data Set/YIELD/Yield_Sign_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/log/trafficSigns-0.001-2conv-basic.model/events.out.tfevents.1512506686.BDC-ASUS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/train_data.npy" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/basic_cnn_20_epochs.h5" afterPath="$PROJECT_DIR$/models/basic_cnn_20_epochs.h5" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/keras_CNN.py" afterPath="$PROJECT_DIR$/keras_CNN.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tflearn_CNN.py" afterPath="$PROJECT_DIR$/tflearn_CNN.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -209,8 +41,8 @@
       <file leaf-file-name="datasetgen.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datasetgen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="65" column="2" lean-forward="false" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
+            <state relative-caret-position="323">
+              <caret line="99" column="18" lean-forward="false" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -219,10 +51,10 @@
       <file leaf-file-name="tflearn_CNN.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tflearn_CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-622">
-              <caret line="59" column="51" lean-forward="false" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
+            <state relative-caret-position="194">
+              <caret line="108" column="9" lean-forward="false" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="9" />
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#0#66#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -242,6 +74,7 @@
       <find>train_data</find>
       <find>conv</find>
       <find>nb_</find>
+      <find>create_tra</find>
       <find>print</find>
     </findStrings>
   </component>
@@ -255,9 +88,10 @@
         <option value="$PROJECT_DIR$/opencv_test.py" />
         <option value="$PROJECT_DIR$/keras-test.py" />
         <option value="$PROJECT_DIR$/ker-test.py" />
-        <option value="$PROJECT_DIR$/datasetgen.py" />
         <option value="$PROJECT_DIR$/keras_CNN.py" />
         <option value="$PROJECT_DIR$/tensorflow_test.py" />
+        <option value="$PROJECT_DIR$/datasetgen.py" />
+        <option value="$PROJECT_DIR$/tflearn_CNN.py" />
       </list>
     </option>
   </component>
@@ -318,7 +152,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.tflearn_CNN">
-    <configuration name="ker-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="datasetgen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -330,12 +164,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CS443-Project" />
-      <option name="SCRIPT_NAME" value="C:\Users\scoob\Dropbox\Fall 2017 Semester\Topic in Computer Science [CS443]\Assignments\Term Project\CS443-Project\keras_CNN.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasetgen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="keras-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ker-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -405,18 +239,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.tensorflow_test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.keras-test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ker-test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.keras_CNN" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tflearn_CNN" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ker-test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.keras_CNN" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tflearn_CNN" />
+      <item index="4" class="java.lang.String" itemvalue="Python.datasetgen" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.tflearn_CNN" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tensorflow_test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.keras_CNN" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ker-test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.keras-test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.datasetgen" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tensorflow_test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.keras_CNN" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ker-test" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +279,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35180995" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35180995" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -488,7 +322,7 @@
         <state relative-caret-position="1848">
           <caret line="88" column="20" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="20" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#66#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -508,7 +342,7 @@
         <state relative-caret-position="1659">
           <caret line="88" column="20" lean-forward="true" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="20" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#66#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -619,18 +453,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/datasetgen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="65" column="2" lean-forward="false" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
+        <state relative-caret-position="323">
+          <caret line="99" column="18" lean-forward="false" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tflearn_CNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-622">
-          <caret line="59" column="51" lean-forward="false" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
+        <state relative-caret-position="194">
+          <caret line="108" column="9" lean-forward="false" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="9" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#66#0" expanded="true" />
           </folding>
         </state>
       </provider>
