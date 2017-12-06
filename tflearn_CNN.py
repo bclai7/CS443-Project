@@ -72,10 +72,13 @@ def process_test_data():
     np.save('test_data.npy', testing_data)
     return testing_data
 
-
-train_data = create_train_data()
-# If you have already created the dataset:
-# train_data = np.load('train_data.npy')
+if os.path.isfile('train_data.npy'):
+    # If you already created the dataset
+    train_data = np.load('train_data.npy')
+    print('Dataset loaded')
+else:
+    print('Creating dataset')
+    train_data = create_train_data()
 
 convnet = input_data(shape=[None, IMG_SIZE, IMG_SIZE, 1], name='input')
 
@@ -123,7 +126,14 @@ model.fit({'input': X}, {'targets': Y}, n_epoch=3, validation_set=({'input': tes
 # model.save(MODEL_NAME)
 
 # TESTING
-test_data = process_test_data()
+if os.path.isfile('test_data.npy'):
+    # If you already created the test data
+    test_data = np.load('test_data.npy')
+    print('Test data loaded')
+else:
+    print('Creating test data')
+    test_data = process_test_data()
+
 fig = plt.figure()
 
 for num, data in enumerate(test_data[:12]):

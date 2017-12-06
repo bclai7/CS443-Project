@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c5f7144-6f28-4cbc-8a11-a70d4fe7b93e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/train_data.npy" afterPath="$PROJECT_DIR$/train_data.npy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tflearn_CNN.py" afterPath="$PROJECT_DIR$/tflearn_CNN.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +51,8 @@
       <file leaf-file-name="tflearn_CNN.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tflearn_CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="108" column="9" lean-forward="false" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="9" />
+            <state relative-caret-position="336">
+              <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
               <folding>
                 <element signature="e#0#66#0" expanded="true" />
               </folding>
@@ -461,8 +461,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tflearn_CNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="108" column="9" lean-forward="false" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="9" />
+        <state relative-caret-position="336">
+          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
           <folding>
             <element signature="e#0#66#0" expanded="true" />
           </folding>
