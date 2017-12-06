@@ -11,8 +11,8 @@ import tensorflow as tf
 
 tf.reset_default_graph()
 
-TRAIN_DIR = 'AllSigns2'
-TEST_DIR = 'AllSigns'
+TRAIN_DIR = os.getcwd() + "/AllSigns"
+TEST_DIR = os.getcwd() + "/AllSigns2"
 IMG_SIZE = 50
 LR = 1e-3
 
@@ -22,28 +22,37 @@ MODEL_NAME = 'trafficSigns-{}-{}.model'.format(LR, '2conv-basic') # just so we r
 def label_img(img):
     word_label = img.split('.')[-2]
     # conversion to one-hot array [cat,dog]
-    if word_label == 'Do_Not_Enter_Sign':
+    if 'Do_Not_Enter_Sign' in word_label:
         return [1, 0, 0, 0, 0, 0]
-    elif word_label == 'No_Left_Turn_Sign':
+    elif 'No_Left_Turn_Sign' in word_label:
         return [0, 1, 0, 0, 0, 0]
-    elif word_label == 'One_Way_Sign':
+    elif 'One_Way_Sign' in word_label:
         return [0, 0, 1, 0, 0, 0]
-    elif word_label == 'Speed_Limit_25MPH':
+    elif 'Speed_Limit_25MPH' in word_label:
         return [0, 0, 0, 1, 0, 0]
-    elif word_label == 'Stop_Sign':
+    elif 'Stop_Sign' in word_label:
         return [0, 0, 0, 0, 1, 0]
-    elif word_label == 'Yield_Sign':
+    elif 'Yield_Sign' in word_label:
         return [0, 0, 0, 0, 0, 1]
+    else:
+        return [0, 0, 0, 0, 0, 0]
 
 
 def create_train_data():
     training_data = []
     for img in tqdm(os.listdir(TRAIN_DIR)):
-        label = label_img(img)
-        path = os.path.join(TRAIN_DIR, img)
-        img = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
-        img = cv2.resize(img, (IMG_SIZE, IMG_SIZE))
-        training_data.append([np.array(img), np.array(label)])
+        print(img)
+        if img is not None:
+            label = label_img(img)
+            if label == [0, 0, 0, 0, 0, 0]:
+                continue
+            path = os.path.join(TRAIN_DIR, img)
+            img = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
+            img = cv2.resize(img, (IMG_SIZE, IMG_SIZE))
+            training_data.append([np.array(img), np.array(label)])
+        else:
+            print("image data null")
+            quit()
     shuffle(training_data)
     np.save('train_data.npy', training_data)
     return training_data
