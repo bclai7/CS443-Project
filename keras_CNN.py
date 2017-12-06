@@ -1,10 +1,13 @@
 import os
 import numpy as np
+import keras
 from keras.models import Sequential
 from keras.layers import Activation, Dropout, Flatten, Dense
 from keras.preprocessing.image import ImageDataGenerator
+from keras.preprocessing import image
 from keras.layers import Conv2D, MaxPooling2D, ZeroPadding2D
 from keras import optimizers
+import cv2
 
 # dimensions of our images.
 img_width, img_height = 50, 50
@@ -61,5 +64,10 @@ model.fit_generator(
         steps_per_epoch=3)
 
 model.save_weights('models/basic_cnn_20_epochs.h5')
-
+# model.load_weights('models_trained/augmented_30_epochs.h5')
 model.evaluate_generator(validation_generator, 55)
+
+img = image.load_img('Traffic Sign Data Set/ALL SIGNS-TEST/Test/5.jpg')
+img = np.reshape(img,[1,50,50,3])
+prediction=model.predict(img)
+print(prediction)
