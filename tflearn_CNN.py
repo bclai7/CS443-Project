@@ -1,8 +1,8 @@
-import cv2                 # working with, mainly resizing, images
-import numpy as np         # dealing with arrays
-import os                  # dealing with directories
-from random import shuffle # mixing up or currently ordered data that might lead our network astray in training.
-from tqdm import tqdm      # a nice pretty percentage bar for tasks. Thanks to viewer Daniel BA1/4hler for this suggestion
+import cv2
+import numpy as np
+import os
+from random import shuffle
+from tqdm import tqdm
 import tflearn
 from tflearn.layers.conv import conv_2d, max_pool_2d
 from tflearn.layers.core import input_data, dropout, fully_connected
@@ -12,18 +12,17 @@ import matplotlib.pyplot as plt
 
 tf.reset_default_graph()
 
-
-TRAIN_DIR = 'Traffic Sign Data Set/TRAIN/'
-TEST_DIR = 'Traffic Sign Data Set/TEST/'
+TRAIN_DIR = 'Traffic Sign Data Set/TRAIN/' # Directory for training files
+TEST_DIR = 'Traffic Sign Data Set/TEST/' # Directory for testing files
 IMG_SIZE = 50
 LR = 1e-3
 
-MODEL_NAME = 'trafficSigns-{}-{}.model'.format(LR, '2conv-basic') # just so we remember which saved model is which, sizes must match
+MODEL_NAME = 'trafficSigns-{}-{}.model'.format(LR, '2conv-basic')
 
 
 def label_img(img):
     word_label = img.split('.')[-2]
-    # conversion to one-hot array [cat,dog]
+    # conversion to one-hot array [Do Not Enter, No Left, One Way, Speed Limit, Stop, Yield]
     if 'Do_Not_Enter_Sign' in word_label:
         return [1, 0, 0, 0, 0, 0]
     elif 'No_Left_Turn_Sign' in word_label:
@@ -77,9 +76,11 @@ if os.path.isfile('train_data.npy'):
     train_data = np.load('train_data.npy')
     print('Dataset loaded')
 else:
+    # Otherwise, create the dataset from files
     print('Creating dataset')
     train_data = create_train_data()
 
+# Convolution Neural Network
 convnet = input_data(shape=[None, IMG_SIZE, IMG_SIZE, 1], name='input')
 
 convnet = conv_2d(convnet, 32, 5, activation='relu')
@@ -107,9 +108,9 @@ convnet = regression(convnet, optimizer='adam', learning_rate=LR,
 
 model = tflearn.DNN(convnet, tensorboard_dir='log')
 
-if os.path.exists('{}.meta'.format(MODEL_NAME)):
-    model.load(MODEL_NAME)
-    print('model loaded!')
+# if os.path.exists('{}.meta'.format(MODEL_NAME)):
+#     model.load(MODEL_NAME)
+#     print('model loaded!')
 
 train = train_data[:-500]
 test = train_data[-500:]
@@ -131,6 +132,7 @@ if os.path.isfile('test_data.npy'):
     test_data = np.load('test_data.npy')
     print('Test data loaded')
 else:
+    # Otherwise create test data from picture files
     print('Creating test data')
     test_data = process_test_data()
 
@@ -144,7 +146,6 @@ for num, data in enumerate(test_data[:12]):
     y = fig.add_subplot(3, 4, num + 1)
     orig = img_data
     data = img_data.reshape(IMG_SIZE, IMG_SIZE, 1)
-    # model_out = model.predict([data])[0]
     model_out = model.predict([data])[0]
 
     if np.argmax(model_out) == 0:
