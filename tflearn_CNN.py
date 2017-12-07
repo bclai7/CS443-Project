@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 tf.reset_default_graph()
 
 
-TRAIN_DIR = 'Traffic Sign Data Set/TRAIN-LARGE/'
+TRAIN_DIR = 'Traffic Sign Data Set/TRAIN/'
 TEST_DIR = 'Traffic Sign Data Set/TEST/'
 IMG_SIZE = 50
 LR = 1e-3
