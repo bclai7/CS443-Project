@@ -8,15 +8,18 @@ from tflearn.layers.conv import conv_2d, max_pool_2d
 from tflearn.layers.core import input_data, dropout, fully_connected
 from tflearn.layers.estimator import regression
 import tensorflow as tf
-
+import matplotlib as mpl
+mpl.use('TkAgg')
+import matplotlib.pyplot as plt
 tf.reset_default_graph()
 
-TRAIN_DIR = os.getcwd() + "/AllSigns"
-TEST_DIR = os.getcwd() + "/AllSigns2"
+TRAIN_DIR = os.getcwd() + "/AllSigns/"
+TEST_DIR = os.getcwd() + "/AllSigns3/"
 IMG_SIZE = 50
 LR = 1e-3
 
 MODEL_NAME = 'trafficSigns-{}-{}.model'.format(LR, '2conv-basic') # just so we remember which saved model is which, sizes must match
+print(cv2.__version__)
 
 
 def label_img(img):
@@ -46,6 +49,7 @@ def create_train_data():
             label = label_img(img)
             if label == [0, 0, 0, 0, 0, 0]:
                 continue
+            print("Hi1")
             path = os.path.join(TRAIN_DIR, img)
             img = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
             img = cv2.resize(img, (IMG_SIZE, IMG_SIZE))
@@ -61,20 +65,27 @@ def create_train_data():
 def process_test_data():
     testing_data = []
     for img in tqdm(os.listdir(TEST_DIR)):
-        path = os.path.join(TEST_DIR, img)
-        img_num = img.split('.')[0]
-        img = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
-        img = cv2.resize(img, (IMG_SIZE, IMG_SIZE))
-        testing_data.append([np.array(img), img_num])
+        if img is not None:
+            path = os.path.join(TEST_DIR, img)
+            img_num = img.split('.')[0]
+            if img_num is "":
+                continue
+            img = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
+            img = cv2.resize(img, (IMG_SIZE, IMG_SIZE))
+            testing_data.append([np.array(img), img_num])
 
     shuffle(testing_data)
     np.save('test_data.npy', testing_data)
     return testing_data
 
 
-# train_data = create_train_data()
-# If you have already created the dataset:
-train_data = np.load('train_data.npy')
+if os.path.isfile('train_data.npy'):
+    # If you already created the dataset
+    train_data = np.load('train_data.npy')
+    print('Dataset loaded')
+else:
+    print('Creating dataset')
+    train_data = create_train_data()
 
 convnet = input_data(shape=[None, IMG_SIZE, IMG_SIZE, 1], name='input')
 
@@ -84,10 +95,19 @@ convnet = max_pool_2d(convnet, 5)
 convnet = conv_2d(convnet, 64, 5, activation='relu')
 convnet = max_pool_2d(convnet, 5)
 
+### EXTRA LAYERS
+
+convnet = conv_2d(convnet, 32, 5, activation='relu')
+convnet = max_pool_2d(convnet, 5)
+
+convnet = conv_2d(convnet, 64, 5, activation='relu')
+convnet = max_pool_2d(convnet, 5)
+
+
 convnet = fully_connected(convnet, 1024, activation='relu')
 convnet = dropout(convnet, 0.8)
 
-convnet = fully_connected(convnet, 2, activation='softmax')
+convnet = fully_connected(convnet, 6, activation='softmax')
 convnet = regression(convnet, optimizer='adam', learning_rate=LR,
                      loss='categorical_crossentropy', name='targets')
 
@@ -108,3 +128,45 @@ test_y = [i[1] for i in test]
 
 model.fit({'input': X}, {'targets': Y}, n_epoch=3, validation_set=({'input': test_x}, {'targets': test_y}), 
     snapshot_step=500, show_metric=True, run_id=MODEL_NAME)
+
+# TESTING
+if os.path.isfile('test_data.npy'):
+    # If you already created the test data
+    test_data = np.load('test_data.npy')
+    print('Test data loaded')
+else:
+    print('Creating test data')
+    test_data = process_test_data()
+fig = plt.figure()
+
+for num, data in enumerate(test_data[:12]):
+
+    img_num = data[1]
+    img_data = data[0]
+
+    y = fig.add_subplot(3, 4, num + 1)
+    orig = img_data
+    data = img_data.reshape(IMG_SIZE, IMG_SIZE, 1)
+    # model_out = model.predict([data])[0]
+    model_out = model.predict([data])[0]
+
+    if np.argmax(model_out) == 0:
+        str_label = 'Do Not Enter'
+    elif np.argmax(model_out) == 1:
+        str_label = 'No Left Turn'
+    elif np.argmax(model_out) == 2:
+        str_label = 'One Way'
+    elif np.argmax(model_out) == 3:
+        str_label = 'Speed Limit 25'
+    elif np.argmax(model_out) == 4:
+        str_label = 'Stop'
+    elif np.argmax(model_out) == 5:
+        str_label = 'Yield'
+    else:
+        str_label = 'Other'
+
+    y.imshow(orig, cmap='gray')
+    plt.title(str_label)
+    y.axes.get_xaxis().set_visible(False)
+    y.axes.get_yaxis().set_visible(False)
+plt.show()
