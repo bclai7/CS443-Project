@@ -13,14 +13,12 @@ mpl.use('TkAgg')
 import matplotlib.pyplot as plt
 tf.reset_default_graph()
 
-TRAIN_DIR = os.getcwd() + "/AllSigns/"
-TEST_DIR = os.getcwd() + "/AllSigns3/"
+TRAIN_DIR = 'Traffic Sign Data Set/TRAIN/' # Directory for training files
+TEST_DIR = 'Traffic Sign Data Set/TEST/' # Directory for testing files
 IMG_SIZE = 50
 LR = 1e-3
 
 MODEL_NAME = 'trafficSigns-{}-{}.model'.format(LR, '2conv-basic') # just so we remember which saved model is which, sizes must match
-print(cv2.__version__)
-
 
 def label_img(img):
     word_label = img.split('.')[-2]
@@ -44,12 +42,11 @@ def label_img(img):
 def create_train_data():
     training_data = []
     for img in tqdm(os.listdir(TRAIN_DIR)):
-        print(img)
+        # print(img)
         if img is not None:
             label = label_img(img)
             if label == [0, 0, 0, 0, 0, 0]:
                 continue
-            print("Hi1")
             path = os.path.join(TRAIN_DIR, img)
             img = cv2.imread(path, cv2.IMREAD_GRAYSCALE)
             img = cv2.resize(img, (IMG_SIZE, IMG_SIZE))
